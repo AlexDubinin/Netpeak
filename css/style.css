@@ -1,0 +1,74 @@
+body{
+    background-color: #e6ecf0;
+}
+#block-body{
+    background-color: white;
+    width: 600px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#block-header{
+    padding-top: 20px;
+    margin-bottom: 20px;
+
+}
+#block-header h1{
+    font:bold 20px sans-serif;
+    color: red;
+    text-align: center;
+}
+#query-rss{
+    margin-top: 20px;
+}
+#query-rss textarea{
+    width: 580px;
+    min-height: 80px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+#count_news{
+    width: 215px;
+    margin-left: 10px;
+    padding-left: 6px;
+
+
+}
+
+#submit{
+    height: 40px;
+    background-color: #9ad717;
+    padding-left: 10px;
+    padding-right: 10px;
+    font: 14px sans-serif;
+    cursor: pointer;
+}
+#submit:hover{
+    background-color: #27d736;
+}
+
+#time{
+    font:bold 25px sans-serif;
+    color: red;
+    text-align: center;
+}
+#resource-news{
+    font:bold 18px sans-serif;
+    color: blue;
+}
+#rss-news{
+    font:15px sans-serif;
+    color: blue;
+}
+#line{
+    border-bottom: 1px solid grey;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#note{
+    font: 13px sans-serif;
+    color: grey;
+}
